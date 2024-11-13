@@ -1,0 +1,4 @@
+# Ignore backups and sessions folders
+/backups/
+/sessions/
+/venv
